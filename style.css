@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(#1a2a6c, #b21f1f, #fdbb2d);
+  color: yellow;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  padding: 2rem 1rem;
+  background-color: #0f2027;
+  color: white;
+}
+
+.image-collage img {
+  width: 90%;
+  max-width: 900px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.content {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  line-height: 1.7;
+}
+
+h2 {
+  color: #fff700;
+}
+
+.cta {
+  font-weight: bold;
+  margin-top: 1.5rem;
+}
+
+a {
+  color: #00ffcc;
+  text-decoration: underline;
+}
+
+button {
+  margin-top: 2rem;
+  padding: 0.8rem 1.5rem;
+  background-color: #f1c40f;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
