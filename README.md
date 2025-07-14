@@ -35,3 +35,31 @@ Using Prettier to Keep My Code Clean ✨
 Collaborating on Slack 🤝
 
 Workshop Week 1 Summary 📝
+
+# ♻️ Upcycled Denim Project
+
+This project was created as part of a SheCodes workshop to raise awareness about the benefits of upcycling denim.
+
+## 🌱 Purpose
+
+- Promote sustainability
+- Reduce textile waste
+- Encourage creative reuse of denim
+
+## 📷 Preview
+
+![Screenshot](images/collage.jpg)
+
+## 📚 Tutorial Resource
+
+Try out your own denim handbag using this awesome tutorial:  
+🔗 [DIY Denim Bag Tutorial](https://www.handmadiya.com/2021/06/recycled-denim-bag-free-pattern-tutorial.html)
+
+## 💡 Built With
+
+- HTML
+- CSS
+
+---
+
+Feel free to improve, remix, or share this project 💙
